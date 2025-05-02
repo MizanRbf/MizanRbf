@@ -1,4 +1,4 @@
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developer](https://i.ibb.co.com/Zpnzz1nS/cover-Photo.png)
 
 ### Hi there 👋, I'm Mizanur Rahman
 #### Web Developer
