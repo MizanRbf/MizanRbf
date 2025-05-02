@@ -1,4 +1,4 @@
-![Web Developer](https://raw.githubusercontent.com/MizanRbf/MizanRbf/main/coverPhoto.png)
+![Web Developer](https://raw.githubusercontent.com/MizanRbf/MizanRbf/main/githubphoto.png)
 
 ### Hi there 👋, I'm Mizanur Rahman
 #### Web Developer
