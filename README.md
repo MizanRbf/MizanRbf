@@ -1,4 +1,4 @@
-![Web Developer](https://raw.githubusercontent.com/MizanRbf/MizanRbf/main/githubphoto.png)
+![Web Developer](https://github.com/MizanRbf/MizanRbf/blob/main/laptop-with-glowing-screen-table-dark-top-view-copy-space.png)
 
 ### Hi there 👋, I'm Mizanur Rahman
 #### Web Developer
