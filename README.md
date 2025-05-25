@@ -1,4 +1,4 @@
-![Web Developer](LinkedinGithubCoverPhoto.png)
+![Web Developer](https://github.com/MizanRbf/MizanRbf/blob/main/linkedin.png)
 
 ### Hi there 👋, I'm Mizanur Rahman
 #### Front-End Developer
