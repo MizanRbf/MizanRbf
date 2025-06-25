@@ -22,9 +22,7 @@ While I’m still exploring the deeper aspects of backend development, I’m con
 
 Let’s connect and create something awesome together!
 
-## 🚀 My Skills
-
-## Tech Stack 💻
+## 💻 My Skills
 
 #### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
