@@ -8,9 +8,17 @@ I'm a passionate Junior MERN Stack Developer who loves turning ideas into real-w
 
 While I’m still exploring the deeper aspects of backend development, I’m confident in creating fully functional, responsive websites from front to back. I enjoy learning new technologies, solving real-world problems, and continuously improving my code.
 
-🚀 Currently:  
+### 🚀 Currently:
 - Building full-stack projects using the MERN stack  
 - Exploring advanced backend topics and APIs  
+- Practicing problem-solving with JavaScript  
+- Improving UI/UX skills and responsive design techniques  
+- Learning authentication methods using Firebase and JWT  
+- Exploring deployment tools like Vercel and Netlify  
+- Contributing to personal GitHub projects  
+- Preparing for front-end and junior MERN Stack job interviews  
+- Learning version control deeply using Git & GitHub  
+- Watching tutorials and building clone projects for practice  
 
 Let’s connect and create something awesome together!
 
