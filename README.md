@@ -65,17 +65,9 @@ Let’s connect and create something awesome together!
 
 </br>
 
-<p align="left">
-  <a href="https://github.com/MizanRbf" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/MizanRbf/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/MizanRbf" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40" />
-  </a>
-</p>
+## 🌐 Social Links
+
+<p align="left"> <a href="https://www.linkedin.com/in/your-username" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://twitter.com/your-username" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"> </a> <a href="https://github.com/your-username" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </p>
 
 
 
