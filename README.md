@@ -4,7 +4,14 @@
 #### A Junior MERN Stack Developer
 
 ### About Me
-I’m Mizanur Rahman, a junior MERN Stack Developer passionate about building clean and user-friendly web applications. Skilled in React, Node.js, and MongoDB.
+I'm a passionate Junior MERN Stack Developer who loves turning ideas into real-world web applications. With a strong foundation in **HTML, CSS, JavaScript, and React, I also have experience building full projects using **Node.js, Express, and MongoDB.
+While I’m still exploring the deeper aspects of backend development, I’m confident in creating fully functional, responsive websites from front to back. I enjoy learning new technologies, solving real-world problems, and continuously improving my code.
+
+🚀 Currently:  
+- Building full-stack projects using the MERN stack  
+- Exploring advanced backend topics and APIs  
+
+Let’s connect and create something awesome together!
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MizanRbf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MizanRbf/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/MizanRbf.Sarkar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/MizanRbf/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MizanRbf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@MizansLearningHome)  
