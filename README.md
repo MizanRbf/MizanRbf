@@ -5,6 +5,7 @@
 
 ### About Me
 I'm a passionate Junior MERN Stack Developer who loves turning ideas into real-world web applications. With a strong foundation in **HTML, CSS, JavaScript, and React, I also have experience building full projects using **Node.js, Express, and MongoDB.
+
 While I’m still exploring the deeper aspects of backend development, I’m confident in creating fully functional, responsive websites from front to back. I enjoy learning new technologies, solving real-world problems, and continuously improving my code.
 
 🚀 Currently:  
