@@ -67,7 +67,7 @@ Let’s connect and create something awesome together!
 
 ## 🌐 Social Links
 
-<p align="left"> <a href="https://www.linkedin.com/in/your-username" target="_blank" title="LinkedIn"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"> </a> <a href="https://twitter.com/your-username" target="_blank" title="Twitter"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter" width="40" height="40"> </a> <a href="https://github.com/your-username" target="_blank" title="GitHub"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/your-username" target="_blank" title="LinkedIn" style="margin-right: 3px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"> </a> <a href="https://twitter.com/your-username" target="_blank" title="Twitter" style="margin-right: 3px;"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter" width="40" height="40"> </a> <a href="https://github.com/your-username" target="_blank" title="GitHub"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"> </a> </p>
 
 
 </br>
