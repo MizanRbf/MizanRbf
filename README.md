@@ -87,9 +87,7 @@ Let’s connect and create something awesome together!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MizanRbf&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MizanRbf/contributions?format=svg&private=false)  
-
-![GitHub metrics](https://metrics.lecoq.io/MizanRbf)  
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MizanRbf/contributions?format=svg&private=false)   
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MizanRbf)  
 
