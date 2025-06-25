@@ -67,19 +67,14 @@ Let’s connect and create something awesome together!
   </tr>
 </table>
 
+</br>
 
-<a href='https://github.com/MizanRbf'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="filter: invert(0%) sepia(8%) saturate(747%) hue-rotate(180deg) brightness(94%) contrast(91%)"/>
-</a>
-&nbsp;
-<a href='https://www.linkedin.com/in/MizanRbf/'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="filter: invert(25%) sepia(75%) saturate(617%) hue-rotate(176deg) brightness(93%) contrast(93%)"/>
-</a>
-&nbsp;
-<a href='https://twitter.com/MizanRbf'>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' style="filter: invert(48%) sepia(86%) saturate(489%) hue-rotate(176deg) brightness(95%) contrast(93%)"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MizanRbf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MizanRbf/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MizanRbf)
 
+
+</br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MizanRbf)](https://github.com/ryo-ma/github-profile-trophy)
 
