@@ -67,6 +67,12 @@ Let’s connect and create something awesome together!
 
 </br>
 
+## Contact
+📞 Phone: +880 1319687088  
+📧 Email: mizanrbf@gmail.com
+
+</br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=MizanRbf)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MizanRbf)](https://github.com/anuraghazra/github-readme-stats)
